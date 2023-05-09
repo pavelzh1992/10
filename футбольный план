@@ -1,0 +1,3 @@
+git remote add origin https://github.com/pavelzh1992/10.git
+ git branch -M main 
+git push -u origin main
